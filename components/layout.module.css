@@ -3,3 +3,7 @@
     padding: 0 1em;
     margin: 3rem auto 6rem;
 }
+
+.container { 
+    background: rgb(0, 153, 255);
+}
